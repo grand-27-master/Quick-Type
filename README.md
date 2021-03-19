@@ -70,4 +70,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Quick-Type
 
+A tool which determines the typing speed of an user
+
+### Concepts Used:
+
+1. <a href="https://reactjs.org/docs/components-and-props.html">Components</a>
+2. <a href="https://reactjs.org/docs/components-and-props.html">Props</a>
+3. <a href="https://reactjs.org/docs/state-and-lifecycle.html">Lifecycle Methods</a>
+4. <a href="https://reactjs.org/docs/conditional-rendering.html">Conditional Rendering</a>
+5. <a href="https://reactjs.org/docs/handling-events.html">Event Listeners</a>
+
+
 
