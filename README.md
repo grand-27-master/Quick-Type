@@ -82,5 +82,5 @@ A tool which determines the typing speed of an user
 
 
 
-<img src="top.png"><br>
+<img src="top.png"><br><br>
 <img src="bottom.png">
